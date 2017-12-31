@@ -1,3 +1,6 @@
-_site/
-.sass-cache/
-.jekyll-metadata
+node_modules
+<<<<<<< HEAD
+.sass-cache
+=======
+bower_components
+>>>>>>> master
